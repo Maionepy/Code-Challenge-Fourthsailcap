@@ -75,6 +75,13 @@ docker build -t my_currency_app .
 docker run -it --rm --name my_currency_container my_currency_app
 ```
 
+## Example (Bonus)
+
+Here it is an example of the output of the main scrapping function running in a macOS machine:
+
+<img width="735" alt="Captura de Tela 2023-07-20 às 12 52 55" src="https://github.com/Maionepy/Code-Challenge-Fourthsailcap/assets/62849365/c62d6020-3838-487e-9ee1-85367aadf0fa">
+
+
 ## Author
 
 - Bruno Fernandes Maione
